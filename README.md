@@ -9,7 +9,7 @@ e. Create a route `/delete_user/<id>` to delete specific data from the database
 e. Create a route `/edit_user/<id>` to delete specific data from the database
 f. Add error handling to handle cases when a user or resource is not found.
 
-
+Task 2: Database Interaction
 a. Create a MySQL database with the name "users".
 b. Design a table "users" with the following columns:
 - id (int, primary key)
